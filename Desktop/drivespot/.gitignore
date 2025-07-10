@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+package-lock.json
+**/node_modules/
+**/package-lock.json
+
+# Next.js
+.next/
+out/
+
+# System
+.DS_Store
+.env.local
